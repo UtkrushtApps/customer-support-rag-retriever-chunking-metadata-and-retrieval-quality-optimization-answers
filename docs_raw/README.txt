@@ -1,0 +1,1 @@
+Place your original document JSON files here. Each file should have: {"id": str, "text": str, "category": str, "priority": str, "date": str (ISO)}
